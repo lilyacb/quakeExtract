@@ -1,2 +1,2 @@
 # quakeExtract
-extract features from seismic data
+Extract features from seismic data
